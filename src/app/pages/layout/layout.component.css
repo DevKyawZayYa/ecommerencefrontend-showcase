@@ -1,0 +1,59 @@
+.temu-navbar {
+    background-color: #1e463e; /* Dark green */
+    padding: 1rem;
+  }
+  
+  .logo-img {
+    height: 30px;
+  }
+  
+  .navbar-brand span {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .nav-links .nav-link {
+    color: white;
+    font-weight: 500;
+    transition: color 0.3s;
+  }
+  
+  .nav-links .nav-link:hover {
+    color: #ffcc00;
+    text-decoration: underline;
+  }
+  
+  .nav-icon {
+    font-size: 1.2rem;
+  }
+  
+  .nav-icon i {
+    font-size: 1.3rem;
+  }
+  
+  .logo-img {
+    height: 32px;
+    width: auto;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .user-dropdown {
+    cursor: pointer;
+  }
+  
+  .dropdown-menu {
+    min-width: 180px;
+    border-radius: 8px;
+    font-size: 0.95rem;
+  }
+  
+  .dropdown-item {
+    padding: 8px 16px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f8f9fa;
+  }
+  
+  

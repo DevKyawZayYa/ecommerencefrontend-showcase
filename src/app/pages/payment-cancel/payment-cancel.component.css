@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.text-danger {
+  color: red;
+}
+
+.btn-outline-primary {
+  margin-top: 1rem;
+  border: 1px solid blue;
+  color: blue;
+  background-color: transparent;
+}
